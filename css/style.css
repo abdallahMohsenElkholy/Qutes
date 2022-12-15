@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.7;
+}
+
+p {
+    font-size: 2rem;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
